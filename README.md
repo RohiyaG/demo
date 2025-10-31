@@ -1,4 +1,5 @@
 #Demo Project README
+Stashing
 This is a simple readme file
 Branching
 I am going to test difftool
